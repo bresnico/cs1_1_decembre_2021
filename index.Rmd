@@ -7,7 +7,7 @@ photo_creds: "[Scott Graham](https://unsplash.com/photos/5fNmWej4tAA)"
 url_unsplash: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80"
 url_canal_cs: "https://teams.microsoft.com/l/channel/19%3a7ff983248bdf41979cc6bd1fdabf35ef%40thread.tacv2/Conseil%2520scientifique?groupId=5747d26d-b680-4386-abf2-965b3f532137&tenantId=5836f016-62a4-4d3b-a32c-4623b49c8e34"
 url_intranet: "https://rms.hepvs.ch/repository/4-weiterbildung/5-einmalige-weiterbildungsangebote/formation-continue-des-enseignants-specialises/dossier-23007"
-url_concept_up_to_date: "https://teams.microsoft.com/_#/school/files/General?threadId=19%3A8hSifiHR96Z6lfbhzdYt1xp3qiP-67mxr8Csh9dxnLM1%40thread.tacv2&ctx=channel&context=Concept%2520g%25C3%25A9n%25C3%25A9ral%2520de%2520la%2520formation%2520(version%2520de%2520travail%2520la%2520plus%2520r%25C3%25A9cente)&rootfolder=%252Fsites%252FFormationcontinuedesESduVSRomand2022-2024%252FFreigegebene%2520Dokumente%252FGeneral%252FConcept%2520g%25C3%25A9n%25C3%25A9ral%2520de%2520la%2520formation%2520(version%2520de%2520travail%2520la%2520plus%2520r%25C3%25A9cente)"
+url_concept_up_to_date: "https://bit.ly/3cU5Gr8"
 url_archives: "https://bresnico.github.io/archives/"
 background_position: "1050px 20px"
 background_size: "100px"
@@ -80,6 +80,8 @@ class: inverse, middle left
 
 # Ordre du jour
 
+--
+
 ### 1- Accueil
 
 --
@@ -112,22 +114,72 @@ class: middle left
 
 ### Composition du CS
 
+- Myriam Squillaci (UNIFR), Andrea Samon (UniDistance), Lionel Alvarez (UNIFR), Corinne Monney (HEP-VS)
+
 --
 
 
 ### Cahier des charges du CS
 
+- (extrait) Identification des contenus des thèmes
+- (extrait) Identification des équipes de formation
+- (extrait) Positionnement sur les équivalences à l'entrée en formation
+
 --
 
 ### Modalités de fonctionnement du CS
 
+- 2 à 4 rencontres par an via Teams avec espace de collaboration virtuel
+
 ---
+
+class: middle left, inverse
 
 # 2- Commande par le client - Cadre de fonctionnement
 
+--
+
+### Formation obligatoire
+
+--
+
+### 44 heures d'exposition aux contenus
+
+--
+
+### Orientation terrain valaisan
+
+--
+
+### En 4 thèmes avec alternance comodal - asynchrone - personnel
+
+--
+
+### Généraliste
+
+
 ---
 
+class: middle
+
 # 3- Missions du CS - Marge de manœuvre
+
+--
+
+### Identifier les contenus des 4 thèmes de 11 heures chacun : 
+
+- Eléments de psychologie cognitive : Attention, mémoire, fonction exécutives
+- TSA et neurosciences : du diagnostic aux interventions
+- Eléments de sciences affectives : développement émotionnel et compétences psychosociales
+- Développer un projet d'intervention : outils, risques et opportunités
+
+--
+
+### Identifier les équipes capables d'intégrer le scénario pédagogique :
+
+- Introduction théorique en comodal (3 heures participant·e)
+- Mise en place et suivi de l'espace pédagogique Moodle avec interactions et présence (6 heures participant·e)
+- Orientation vers l'implémentation en terrain valaisan (2 heures participant·e)
 
 ---
 
@@ -139,185 +191,95 @@ background-size: cover
 
 # 4- Identification des contenus - Décision
 
+---
+class:middle, center
+
+```{r out.width = '100%', echo=FALSE}
+# local
+knitr::include_graphics("img/anatomie.png")
+```
+### Anatomie d'un module
 
 ---
 
 class:middle
 
-# 4- Identification des contenus - Décision
+# 4- Identification des contenus des 4 thèmes - Décision
 
 --
 ### Mission
+
+Figer les thèmes et contenus des 4 parties de la formation (4 thèmes de 11 heures chacun).
 
 --
 
 ### Tâches relatives
 
+1. Reformuler la notion centrale de chaque thème
+1. Définir les notions-clés
+1. Formuler un objectif de chaque thème
+1. Rédiger une description
+
 --
 
-### Document de travil
+### Document de travail
 
-sur teams, fiche de description de chaque module... tableau excel ??? simple ???
+[Document de travail pour l'élaboration des contenus de chaque thème](https://bit.ly/3p6x7ni)
 
 ---
+class: title-slide, inverse, middle
+background-image: url("https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80")
+background-size: cover
+
+--
 
 # 5- Identification des équipes - Premières réflexions
 
 ---
+class:middle, center
+```{r out.width = '100%', echo=FALSE}
+# local
+knitr::include_graphics("img/sessions.png")
+```
+
+### Organisation des sessions et planification des thèmes
+
+---
+class: middle
+
+# 5- Identification des équipes - Premières réflexions
+
+--
+
+### Mission
+
+Identifier les équipes susceptibles de piloter chaque thème de la formation :
+
+- 4 thèmes de 11 heures chacun
+- Chaque thème est donné 3 fois entre 2022 et 2024
+
+--
+
+### Tâches relatives
+
+- Identifier des noms
+
+--
+
+### Document de travail
+
+[Document de travail pour l'élaboration des contenus de chaque thème](https://bit.ly/3p6x7ni)
+
+---
+class: middle
 
 # 6- Divers
 
 ---
-class: middle left
 
-# Rappel du contexte
+class: middle
 
---
-
-### Mandat
-
-Client : Office de l'Enseignement Spécialisé (dépendant du Service de l'Enseignement)
-
-Formation de 44 heures réparties en 4 parties (ou modules) 
-
-Contenus : TSA, troubles et neurosciences, compétences psychosociales, connaissance d'outils
-
---
-
-### Autonomie des personnes
-
-3 sessions de août 2022 à juin 2024
-
-Utilisation des technologies : Teams (enseignement comodal), Moodle HEP-VS 
-
---
-
-### Alternance théorie-pratique forte
-
-Contenus académiques et connexion avec la culture d'établissement
-
----
-class: middle left
-
-# Rappel du contexte : Affaires courantes
-
---
-
-.pull-left[
-
-- Organes formalisés: comité de pilotage, conseil scientifique, groupe consultatif
-
-- Montée en puissance: attribution de ressources internes
-
-- Rédaction "procédure d'inscriptions et masse critique" (en cours)
-
-- Rédaction "cours accéléré pour les futur·es engagé·es" (en cours)
-
-- Rédaction "connexions avec le MAES Bas-Valais" (en cours)
-
-]
-
---
-
-.pull-right[
-
-- Élaboration d'un cadre de fonctionnement avec les institutions partenaires pressenties
-
-- Identité de la formation: nom, visuels
-
-- Réflexions sur la possibilité de formaliser la formation
-
-- Formalisation de l'organigramme (pouvoir décisionnel)
-
-]
-
-
----
-class: middle, center
-
-```{r org, echo=FALSE, message=TRUE, warning=TRUE, out.width='75%', paged.print=FALSE}
-# local
-knitr::include_graphics("img/org.png")
-```
-
----
-
-class: inverse, middle left
-
-# Présentation des 2 fiches de projets
-
---
-
-## Etat d’avancement
-
---
-
-## Echéancier
-
-- Septembre 2021: Validation financière du projet, validation du concept de formation &#x1f7e0;
-
-- Octobre 2021: Démarrage des organes de formation 1.12 (CS) ;  6.12 (GC) ; 10.01 (CS) ; 11.01 (GC) &#x1F7E2;
-
-- Janvier 2022: Validation des équipes de formation &#x1f7e0;
-
-- Février 2022: Validation de la première communication aux ES par l'OES sur proposition de la HEP-VS &#x1f7e0;
-
---
-
-## Enjeux financiers
-
-
----
-class: middle left, inverse
-
-# Partenariat interinstitutionnel
-
-
---
-
-## IPC (UNFIR)
-
---
-
-## UniDistance
-
---
-
-## Enjeux : 
-
-- Place dans le comité de pilotage
-- Rôle décisionnel
-- Nécessité d'une convention
-
----
-
-class: middle left
-
-# Décisions
-
---
-
-## Go / No Go financier
-
---
-
-## Go / No Go pour le partenariat institutionnel
-
-- Go / No Go de principe de la DIR HEP-VS
-
-- Négociation de la convention par DIR ou UFA (deadline : 15 janvier 2022)
-
----
-
-class: middle left
-
-# Divers
-
----
-
-class: middle,  
-
-## Merci pour votre attention !
+## Merci pour votre engagement !
 
 ```{r out.width = '10%', echo=FALSE}
 # local
@@ -333,5 +295,7 @@ Crédits photo par ordre d'apparition :
 [Scott Graham](https://unsplash.com/photos/5fNmWej4tAA)
 
 [Jens Lelie](https://unsplash.com/photos/u0vgcIOQG08)
+
+[Nathan Dumlao](https://unsplash.com/photos/6VhPY27jdps)
 
 ]
