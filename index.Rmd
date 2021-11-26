@@ -1,0 +1,337 @@
+---
+title: "Formation continue obligatoire des ES du VS Romand"
+subtitle: "Première séance du Conseil Scientifique &#x1F4BB;"  
+team: "Conseil scientifique de la fomation"
+date: "1er décembre 2021"
+photo_creds: "[Scott Graham](https://unsplash.com/photos/5fNmWej4tAA)" 
+url_unsplash: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80"
+url_canal_cs: "https://teams.microsoft.com/l/channel/19%3a7ff983248bdf41979cc6bd1fdabf35ef%40thread.tacv2/Conseil%2520scientifique?groupId=5747d26d-b680-4386-abf2-965b3f532137&tenantId=5836f016-62a4-4d3b-a32c-4623b49c8e34"
+url_intranet: "https://rms.hepvs.ch/repository/4-weiterbildung/5-einmalige-weiterbildungsangebote/formation-continue-des-enseignants-specialises/dossier-23007"
+url_concept_up_to_date: "https://teams.microsoft.com/_#/school/files/General?threadId=19%3A8hSifiHR96Z6lfbhzdYt1xp3qiP-67mxr8Csh9dxnLM1%40thread.tacv2&ctx=channel&context=Concept%2520g%25C3%25A9n%25C3%25A9ral%2520de%2520la%2520formation%2520(version%2520de%2520travail%2520la%2520plus%2520r%25C3%25A9cente)&rootfolder=%252Fsites%252FFormationcontinuedesESduVSRomand2022-2024%252FFreigegebene%2520Dokumente%252FGeneral%252FConcept%2520g%25C3%25A9n%25C3%25A9ral%2520de%2520la%2520formation%2520(version%2520de%2520travail%2520la%2520plus%2520r%25C3%25A9cente)"
+url_archives: "https://bresnico.github.io/archives/"
+background_position: "1050px 20px"
+background_size: "100px"
+output:
+  xaringan::moon_reader:
+    self_contained: true
+    css: ["default", "xaringan-themer.css"]
+    seal: false
+    nature:
+      slideNumberFormat: "%current%"
+      highlightStyle: github
+      highlightLines: true
+      ratio: 16:9
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(
+  fig.width = 9, fig.height = 3.5, fig.retina = 3,
+  out.width = "100%",
+  cache = FALSE,
+  echo = TRUE,
+  message = FALSE,
+  warning = FALSE,
+  fig.show = TRUE,
+  hiline = TRUE
+)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#D2202B",
+  secondary_color = "#D2202B",
+  inverse_header_color = "#FFFFFF",
+  link_color = "#676C72",
+    header_font_google = google_font("Josefin Sans")
+
+)
+```
+
+class: title-slide, inverse, bottom
+background-image: url(`r rmarkdown::metadata$url_unsplash`)
+background-size: cover
+
+# `r rmarkdown::metadata$title`
+
+## `r rmarkdown::metadata$subtitle`
+
+### `r rmarkdown::metadata$team`
+
+### `r rmarkdown::metadata$date`
+
+---
+class: about-me, middle, center
+
+
+<img style="border-radius: 50%;" src="https://pbs.twimg.com/profile_images/1300813855183065100/-Rd3mskJ.jpg" width="150px"/>
+
+## Formation continue HEP-VS
+
+[`r icons::fontawesome("user-lock")` Stockage et versioning du projet (Intranet HEP-VS uniquement)](`r rmarkdown::metadata$url_intranet`)</br>
+[`r icons::fontawesome("link")` Concept au 26.11.2021 (Equipe Teams de la formation)](`r rmarkdown::metadata$url_concept_up_to_date`) </br>
+[`r icons::fontawesome("link")` Canal Teams (Conseil scientifique de la formation)](`r rmarkdown::metadata$url_canal_cs`)</br>
+[`r icons::fontawesome("link")` Archive des présentations publiées](`r rmarkdown::metadata$url_archives`)
+
+---
+class: inverse, middle left
+
+# Ordre du jour
+
+### 1- Accueil
+
+--
+
+### 2- Commande par le client - Cadre de fonctionnement
+
+--
+
+### 3- Missions du CS - Marge de manœuvre
+
+--
+
+### 4- Identification des contenus - Décision
+
+--
+
+### 5- Identification des équipes - Premières réflexions
+
+--
+
+### 6- Divers
+
+---
+
+class: middle left
+
+# 1- Accueil
+
+--
+
+### Composition du CS
+
+--
+
+
+### Cahier des charges du CS
+
+--
+
+### Modalités de fonctionnement du CS
+
+---
+
+# 2- Commande par le client - Cadre de fonctionnement
+
+---
+
+# 3- Missions du CS - Marge de manœuvre
+
+---
+
+class: title-slide, inverse, middle
+background-image: url("https://images.unsplash.com/photo-1429743305873-d4065c15f93e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1734&q=80")
+background-size: cover
+
+--
+
+# 4- Identification des contenus - Décision
+
+
+---
+
+class:middle
+
+# 4- Identification des contenus - Décision
+
+--
+### Mission
+
+--
+
+### Tâches relatives
+
+--
+
+### Document de travil
+
+sur teams, fiche de description de chaque module... tableau excel ??? simple ???
+
+---
+
+# 5- Identification des équipes - Premières réflexions
+
+---
+
+# 6- Divers
+
+---
+class: middle left
+
+# Rappel du contexte
+
+--
+
+### Mandat
+
+Client : Office de l'Enseignement Spécialisé (dépendant du Service de l'Enseignement)
+
+Formation de 44 heures réparties en 4 parties (ou modules) 
+
+Contenus : TSA, troubles et neurosciences, compétences psychosociales, connaissance d'outils
+
+--
+
+### Autonomie des personnes
+
+3 sessions de août 2022 à juin 2024
+
+Utilisation des technologies : Teams (enseignement comodal), Moodle HEP-VS 
+
+--
+
+### Alternance théorie-pratique forte
+
+Contenus académiques et connexion avec la culture d'établissement
+
+---
+class: middle left
+
+# Rappel du contexte : Affaires courantes
+
+--
+
+.pull-left[
+
+- Organes formalisés: comité de pilotage, conseil scientifique, groupe consultatif
+
+- Montée en puissance: attribution de ressources internes
+
+- Rédaction "procédure d'inscriptions et masse critique" (en cours)
+
+- Rédaction "cours accéléré pour les futur·es engagé·es" (en cours)
+
+- Rédaction "connexions avec le MAES Bas-Valais" (en cours)
+
+]
+
+--
+
+.pull-right[
+
+- Élaboration d'un cadre de fonctionnement avec les institutions partenaires pressenties
+
+- Identité de la formation: nom, visuels
+
+- Réflexions sur la possibilité de formaliser la formation
+
+- Formalisation de l'organigramme (pouvoir décisionnel)
+
+]
+
+
+---
+class: middle, center
+
+```{r org, echo=FALSE, message=TRUE, warning=TRUE, out.width='75%', paged.print=FALSE}
+# local
+knitr::include_graphics("img/org.png")
+```
+
+---
+
+class: inverse, middle left
+
+# Présentation des 2 fiches de projets
+
+--
+
+## Etat d’avancement
+
+--
+
+## Echéancier
+
+- Septembre 2021: Validation financière du projet, validation du concept de formation &#x1f7e0;
+
+- Octobre 2021: Démarrage des organes de formation 1.12 (CS) ;  6.12 (GC) ; 10.01 (CS) ; 11.01 (GC) &#x1F7E2;
+
+- Janvier 2022: Validation des équipes de formation &#x1f7e0;
+
+- Février 2022: Validation de la première communication aux ES par l'OES sur proposition de la HEP-VS &#x1f7e0;
+
+--
+
+## Enjeux financiers
+
+
+---
+class: middle left, inverse
+
+# Partenariat interinstitutionnel
+
+
+--
+
+## IPC (UNFIR)
+
+--
+
+## UniDistance
+
+--
+
+## Enjeux : 
+
+- Place dans le comité de pilotage
+- Rôle décisionnel
+- Nécessité d'une convention
+
+---
+
+class: middle left
+
+# Décisions
+
+--
+
+## Go / No Go financier
+
+--
+
+## Go / No Go pour le partenariat institutionnel
+
+- Go / No Go de principe de la DIR HEP-VS
+
+- Négociation de la convention par DIR ou UFA (deadline : 15 janvier 2022)
+
+---
+
+class: middle left
+
+# Divers
+
+---
+
+class: middle,  
+
+## Merci pour votre attention !
+
+```{r out.width = '10%', echo=FALSE}
+# local
+knitr::include_graphics("img/logo.png")
+```
+
+--
+
+.pull-right[
+
+Crédits photo par ordre d'apparition :
+
+[Scott Graham](https://unsplash.com/photos/5fNmWej4tAA)
+
+[Jens Lelie](https://unsplash.com/photos/u0vgcIOQG08)
+
+]
