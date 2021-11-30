@@ -198,7 +198,7 @@ class:middle, center
 # local
 knitr::include_graphics("img/anatomie.png")
 ```
-### Anatomie d'un module
+### Anatomie d'un thème
 
 ---
 
